@@ -8,7 +8,6 @@ services:
     restart: always
     deploy:
       mode: global
-    volumes:
     environment:
       MEILI_MASTER_KEY: "yWPFG870PyFQay84ec8OvudC7Nc4fjJdGV6D0BXkBhuzL4cqlOem2cf8pWGD+KsS
 g0XYos+mdDi6l86nJ6hLvpG4wuAftKWc6yPZe/oRDtKYpQ=="
