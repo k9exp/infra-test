@@ -10,7 +10,5 @@ services:
       mode: global
     environment:
       MEILI_MASTER_KEY: "yWPFG870PyFQay84ec8OvudC7Nc4fjJdGV6D0BXkBhuzL4cqlOem2cf8pWGD+KsS
-g0XYos+mdDi6l86nJ6hLvpG4wuAftKWc6yPZe/oRDtKYpQ=="
-      MEILI_IGNORE_DUMP_IF_DB_EXISTS: true
-      MEILI_IGNORE_MISSING_DUMP: true
+g0XYos+mdDi6l86nJ6hLvp="
 
