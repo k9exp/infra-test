@@ -8,6 +8,8 @@ services:
     restart: always
     deploy:
       mode: global
+    volumes:
+      - meili:/meilisearch/data.ms
     environment:
       MEILI_MASTER_KEY: "yWPFG870PyFQay84ec8OvudC7Nc4fjJdGV6D0BXkBhuzL4cqlOem2cf8pWGD+KsS
 g0XYos+mdDi6l86nJ6hLvp="
