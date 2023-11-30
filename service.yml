@@ -4,7 +4,7 @@ services:
   meilisearch:
     image: ghcr.io/kunalsin9h/meilisearch:latest
     ports:
-      - "7788:7700"
+      - "7778:7700"
     restart: always
     deploy:
       mode: global
