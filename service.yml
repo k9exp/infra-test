@@ -16,5 +16,3 @@ g0XYos+mdDi6l86nJ6hLvp="
 
 volumes:
   meili:
-    labels:
-      - "a=b"
